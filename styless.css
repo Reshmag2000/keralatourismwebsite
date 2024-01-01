@@ -1,0 +1,14 @@
+.carousel-slide{
+    width: 40%;
+    height: 70%;
+} 
+.headstyle{
+    font-weight: 800; 
+    color: rgb(247, 2, 2); 
+    font-size:x-large;
+}
+
+.text{
+    margin: 20px 70px 70px 70px;
+    font-family: 'Inconsolata', monospace;
+}
